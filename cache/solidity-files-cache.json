@@ -2,8 +2,8 @@
   "_format": "hh-sol-cache-2",
   "files": {
     "C:\\Users\\ruana\\OneDrive\\Documentos\\Opinion GivenX\\contracts\\XPost.sol": {
-      "lastModificationDate": 1696206496375,
-      "contentHash": "c7d25129336ede75947bc6f244bd4047",
+      "lastModificationDate": 1696265507003,
+      "contentHash": "b02b4e115afdb142a71febea6319c9be",
       "sourceName": "contracts/XPost.sol",
       "solcConfig": {
         "version": "0.8.19",
